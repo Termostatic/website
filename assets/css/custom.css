@@ -1,0 +1,22 @@
+.col-4{
+    background-color: aquamarine;
+}
+
+.col-3{
+    background-color: blueviolet;
+}
+.col-5{
+    background-color: darkorchid;
+}
+
+
+footer {
+    background: chartreuse;
+    height: 70px;
+    text-align: center;
+}
+
+body{
+
+    background-color: crimson;
+}
